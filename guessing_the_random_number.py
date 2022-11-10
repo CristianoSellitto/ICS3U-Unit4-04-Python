@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Created by Cristiano Sellitto
-# Created in October 2022
+# Created in November 2022
 # A program that finds if the user's number between 0 and 9 is equal to the random number
 
 import random
